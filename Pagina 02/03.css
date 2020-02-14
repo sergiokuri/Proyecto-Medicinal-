@@ -1,0 +1,41 @@
+.backgroundgeneral{
+background-color: rgb(197, 211, 238);
+
+}
+
+.backgroundup{
+background-color: rgb(59, 25, 180);
+
+}
+
+.colorbutton{
+    background-color: rgb(59, 25, 180);
+
+}
+
+.colorsection{
+background-color: white;
+}
+
+.letra {
+font-size: 1rem;
+
+}
+
+main{
+height: 100%;
+width: 100%;
+}
+
+.size1{
+height: 40%;
+width: 40%;
+}
+
+.block{
+display: inline-block;
+
+}
+
+
+
